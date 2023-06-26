@@ -1,0 +1,2 @@
+# ProyectoSENA
+Proyecto de inventarios
